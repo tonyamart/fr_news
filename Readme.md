@@ -1,5 +1,8 @@
-### About
+### Working repository
+Here it is a working repo for the project on French newspapers.  
 
+
+### About
 For now I've made some preliminary work with the articles from LeMonde:
 * texts are separated one month = one .txt file (I can send you these files if you want);
 * lemmatization with UDPipe:lemmatized texts are in the folder `lemonde/lemmatise` ;  
